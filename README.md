@@ -421,6 +421,7 @@ Terminal**. To use these configurations, refer to the respective documentation.
 - [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 - [Neogit](https://github.com/TimUntersberger/neogit)
 - [vim-textfsm](https://github.com/oasys/vim-textfsm)
+- [snacks.nvim](https://github.com/folke/snacks.nvim)
 
 <br>
 

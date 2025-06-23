@@ -10,3 +10,4 @@ Session.vim
 
 # Ignore lua LSP files.
 .luarc.json
+colors

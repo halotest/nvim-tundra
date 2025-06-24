@@ -15,6 +15,7 @@ M.map = function(ss, opts)
 		SnacksPickerInputBorder = { link = "DiagnosticInfo" },
 		SnacksPickerBoxBorder = { link = "DiagnosticInfo" },
 		SnacksPickerBorder = { link = "DiagnosticInfo" },
+		SnacksIndent = { link = "Conceal" },
 		-- SnacksPickerBox = { link = "DiagnosticInfo" },
 		-- SnacksPicker = { link = "Conceal" },
 		-- SnacksIndent = { link = "Conceal" },
